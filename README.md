@@ -1,4 +1,4 @@
-# meals_app
+# a recipe book from your favorite chef
 
 A new Flutter project.
 
